@@ -12,7 +12,7 @@ body {
   height: 100%;
   padding: 0;
   background: linear-gradient(45deg, rgb(84, 255, 50), rgb(252, 160, 75));
-  background-image: url(./img/plitka_fon.jpg);
+  background-image: url(/img/plitka_fon.jpg);
   
   box-shadow: inset 0 70px 250px 0px rgb(0, 0, 0);
 }
