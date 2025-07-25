@@ -3,7 +3,6 @@ html{
   font-family: 'Arial';
 }
 body {
-
   background: #9f9792;
   margin: 0;
   background-image: url(./img/plitka_fon5.webp);
@@ -14,7 +13,6 @@ body {
   width: 100%;
   height: 100%;
   padding: 0;
-  
 }
 #osnova{
   text-align: center;
